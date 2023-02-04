@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 echo "Bienvenido/a al planeta $planeta"
 if [ "$agente" = "true" ]
 then
